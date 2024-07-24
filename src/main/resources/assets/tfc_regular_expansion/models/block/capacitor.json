@@ -1,0 +1,11 @@
+{
+  "parent": "tfc_regular_expansion:custom/capacitor",
+  "textures": {
+    "all": "tfc_regular_expansion:block/brass",
+    "particle": "tfc_regular_expansion:block/brass",
+    "0": "tfc_regular_expansion:block/tin",
+    "1": "tfc_regular_expansion:block/zinc",
+    "2": "tfc_regular_expansion:block/brass"
+  },
+  "render_type": "solid"
+}

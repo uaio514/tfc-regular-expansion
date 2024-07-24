@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="tfc_regular_expansion"
+version="1.0.0"
+displayName="A regular TFC Expansion"
+displayURL="https://mcreator.net"
+credits="author:uaio; Texture and model : uaio"
+authors="uaio"
+description="A regular TFC Expansion"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.tfc_regular_expansion]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.tfc_regular_expansion]]
+    modId="tfc"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+

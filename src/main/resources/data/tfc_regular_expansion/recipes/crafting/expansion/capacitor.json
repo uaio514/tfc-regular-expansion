@@ -1,0 +1,12 @@
+{"type":"minecraft:crafting_shaped",
+    "pattern":["EAE","BCB","EDE"],
+    "key":{
+        "A":{"item":"tfc:metal/sheet/brass"},
+        "B":{"item":"tfc:burlap_cloth"},
+        "C":{"item":"tfc:metal/ingot/unknown"},
+        "D":{"item":"tfc:metal/sheet/tin"},
+        "E":{"item":"minecraft:air"},
+
+        "result":{"item":"tfc_regular_expansion:mining_explosives"}
+    }
+}

@@ -1,0 +1,9 @@
+{"type":"minecraft:crafting_shaped",
+    "pattern":["AA","BB"],
+    "key":{
+        "A":{"item":"minecraft:gunpowder"},
+        "B":{"item":"tfc:burlap_cloth"},
+
+        "result":{"item":"tfc_regular_expansion:mining_explosives"}
+    }
+}
